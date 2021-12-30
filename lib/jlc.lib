@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.4 
+# encoding utf-8
+# created by JLC2KiCad_lib using the JLCPCB library
+# for more info see https://github.com/TousstNicolas/JLC2KICAD_lib
+#
+#
+# TS-1187A-B-A-B
+#
+DEF TS-1187A-B-A-B U 0 40 Y Y 1 F N
+F0 "U" 0 50 50 H V C C N N
+F1 "TS-1187A-B-A-B" 0 -100 50 H V C C N N
+F2 "jlc:TS-1187A-B-A-B" 0 -400 50 H I C CIN
+F3 "https://datasheet.lcsc.com/lcsc/2002271431_XKB-Connectivity-TS-1187A-B-A-B_C318884.pdf" -90 5 50 H I L CNN
+DRAW
+P 2 1 0 0 900 200 1100 200
+P 2 1 0 0 900 -100 1100 -100
+C 1000 -20 1 1 0 0 f
+C 1000 110 1 1 0 0 f
+P 2 1 0 0 1000 -30 1000 -100
+P 2 1 0 0 1000 130 1000 200
+P 2 1 0 0 980 -30 950 100
+X B 2 1300 100 200 L 40 40 1 0 U 
+X A 1 700 100 200 R 40 40 1 0 U 
+X D 4 1300 -200 200 L 40 40 1 0 U 
+X C 3 700 -200 200 R 40 40 1 0 U 
+ENDDRAW
+ENDDEF
+#
+# End Library

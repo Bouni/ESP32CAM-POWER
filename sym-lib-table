@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "bouni")(type "KiCad")(uri "${KIPRJMOD}/lib/bouni.kicad_sym")(options "")(descr ""))
+  (lib (name "jlc")(type "KiCad")(uri "${KIPRJMOD}/lib/jlc.kicad_sym")(options "")(descr ""))
 )
