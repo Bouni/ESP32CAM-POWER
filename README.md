@@ -6,4 +6,4 @@ The DC-DC converter board used is of [AliExpress](https://de.aliexpress.com/item
 
 ![TOP](ESP32CAM-POWER-TOP.png)
 
-![BOTTOM](ESP32CAM-POWER-TOP.png)
+![BOTTOM](ESP32CAM-POWER-BOTTOM.png)
