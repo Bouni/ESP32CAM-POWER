@@ -1,5 +1,6 @@
 {
   "board": {
+    "3dviewports": [],
     "design_settings": {
       "defaults": {
         "board_outline_line_width": 0.09999999999999999,
@@ -439,7 +440,7 @@
     },
     "net_colors": {
       "+5V": "rgb(102, 224, 255)",
-      "GND": "rgb(255, 0, 13)",
+      "GND": "rgb(186, 10, 255)",
       "VCC": "rgb(255, 131, 26)"
     }
   },
