@@ -1,3 +1,8 @@
 (fp_lib_table
+  (version 7)
   (lib (name "bouni")(type "KiCad")(uri "${KIPRJMOD}/bouni.pretty")(options "")(descr ""))
+  (lib (name "TRACO-TSR1")(type "KiCad")(uri "${KIPRJMOD}/footprint/TRACO-TSR1")(options "")(descr ""))
+  (lib (name "JLCPCB")(type "KiCad")(uri "${KIPRJMOD}/footprint/JLCPCB")(options "")(descr ""))
+  (lib (name "SPTAF1")(type "KiCad")(uri "${KIPRJMOD}/footprint/SPTAF1")(options "")(descr ""))
+  (lib (name "LCSC")(type "KiCad")(uri "${KIPRJMOD}/footprint/LCSC")(options "")(descr ""))
 )
